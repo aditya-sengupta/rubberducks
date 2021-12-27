@@ -1,0 +1,1 @@
+check(s::Sudoku) = all(mask(s))
